@@ -15,3 +15,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # cruv-assignment
+
+###TODO
+1. Add Install Instructions
+2. Add Screen Recording
+3. Add Explaination for basic implementation
+4. Add Explaination for auto-scroll on search 
+5. Add Explaination for state management
