@@ -6,11 +6,9 @@ class BerthWidget extends StatelessWidget {
   const BerthWidget({
     super.key,
     required this.index,
-    this.searchBarText,
   });
 
   final int index;
-  final String? searchBarText;
 
   @override
   Widget build(BuildContext context) {

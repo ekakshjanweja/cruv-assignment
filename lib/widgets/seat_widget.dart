@@ -6,6 +6,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 class SeatWidget extends ConsumerStatefulWidget {
   final int seatIndex;
   final String seatType;
+
   const SeatWidget({
     super.key,
     required this.seatIndex,

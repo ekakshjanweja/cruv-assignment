@@ -66,7 +66,7 @@ class _SeatDisplayScreenState extends ConsumerState<SeatDisplayScreen> {
               Expanded(
                 child: ListView.builder(
                   controller: _scrollController,
-                  itemCount: 10,
+                  itemCount: 9,
                   itemBuilder: (context, index) {
                     return BerthWidget(index: index);
                   },
