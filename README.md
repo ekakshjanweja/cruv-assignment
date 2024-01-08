@@ -20,12 +20,6 @@
         flutter run
 
 
-# Screenshots 
-
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image.png)
-
 # Methodology
 
 Created UI for a train-seat booking app, using flutter. Used custom clipper to create the ui for each berth. I also changed the color scheme a bit from the original design in favour of materal design 3 (but it can be make exactly as per the ui provided)
@@ -47,5 +41,11 @@ Used routemaster for named routing.
 
 Used a gesture detector to add or remove the seats from the list of selected seats. Color of selected seat is also updated for a visual indication.
  
+
+# Screenshots 
+
+![Alt text](image-1.png)
+![Alt text](image-2.png)
+![Alt text](image.png)
 
 
