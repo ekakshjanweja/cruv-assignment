@@ -1,4 +1,3 @@
-![WhatsApp Image 2024-01-08 at 5 08 07 PM (2)](https://github.com/ekakshjanweja/cruv-assignment/assets/73514964/877dfcd5-9b95-4f19-8376-846671eb6477)
 ### Flutter Assignment | Curv
 
 # Install Instructions
@@ -19,6 +18,10 @@
 
         flutter run
 
+
+# Screen Recording
+
+https://github.com/ekakshjanweja/cruv-assignment/assets/73514964/44f65158-52c8-4ab1-8c28-3abdb822e7ab
 
 # Methodology
 
