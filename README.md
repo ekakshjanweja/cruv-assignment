@@ -1,4 +1,4 @@
-
+![WhatsApp Image 2024-01-08 at 5 08 07 PM (2)](https://github.com/ekakshjanweja/cruv-assignment/assets/73514964/877dfcd5-9b95-4f19-8376-846671eb6477)
 ### Flutter Assignment | Curv
 
 # Install Instructions
@@ -39,13 +39,16 @@ Used routemaster for named routing.
 
 ### Selection/Deselection of Seats on tap
 
-Used a gesture detector to add or remove the seats from the list of selected seats. Color of selected seat is also updated for a visual indication.
- 
+Used a gesture detector to add or remove the seats from the list of selected seats. Color of selected seat is also updated for a visual indication. 
 
 # Screenshots 
 
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image.png)
+![WhatsApp Image 2024-01-08 at 5 08 07 PM](https://github.com/ekakshjanweja/cruv-assignment/assets/73514964/42a66a04-18a7-49aa-88b5-97527dd08dec)
+
+![WhatsApp Image 2024-01-08 at 5 08 07 PM (1)](https://github.com/ekakshjanweja/cruv-assignment/assets/73514964/89bcff7f-5732-4e9f-9d11-646c71cf7fd8)
+
+![WhatsApp Image 2024-01-08 at 5 08 07 PM (2)](https://github.com/ekakshjanweja/cruv-assignment/assets/73514964/c3a14664-e09a-467f-832d-c0d0c279f973)
+
+
 
 
